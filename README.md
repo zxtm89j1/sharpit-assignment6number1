@@ -1,0 +1,1 @@
+This is a program that asks two numbers and shows a simple menu for calculating the two numbers. The menu will not stop unless number 4 is chosed by the user. Pointers are used in this program. It is made using the C programmning language. This was my output for the assignment in Sharp IT.
